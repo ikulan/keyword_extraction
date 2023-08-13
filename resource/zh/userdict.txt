@@ -1,0 +1,50 @@
+# === Simplified Chinese===
+底妆 n
+路易威登 nr
+
+# Weibo emoji
+中国赞
+给你小心心
+坏笑 v
+吃瓜 v
+舔屏 v
+打脸 v
+挖鼻 v
+互粉 v
+笑而不语
+给力 a
+求关注
+羞嗒嗒
+带着微博去旅行 
+绿丝带 n
+小黄人 n
+
+# Not Noun
+息事宁人 x
+
+
+# === Traditional Chinese===
+底妝 n
+路易威登 nr
+
+# Weibo emoji
+中國贊
+給你小心心
+壞笑 v
+吃瓜 v
+舔屏 v
+打臉 v
+挖鼻 v
+互粉 v
+笑而不語
+給力 a
+求關注
+羞嗒嗒
+帶着微博去旅行 
+綠絲帶 n
+小黃人 n
+
+# Not Noun
+息事寧人 x
+
+

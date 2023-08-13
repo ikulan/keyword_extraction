@@ -1,0 +1,7 @@
+--index-url https://pypi.org/simple
+matplotlib>=2.0.0
+numpy>=1.12.1
+pandas>=0.19.2
+pycld2==0.31
+jieba>=0.39
+elasticsearch>=6.0.0,<7.0.0
